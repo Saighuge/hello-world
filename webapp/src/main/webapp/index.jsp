@@ -6,6 +6,8 @@
   </head>
   <body>
     <div class="signup">
+    <input type="Name" placeholder="Name"/>
+    <br>
       <input type="email" placeholder="Email"/>
       <br>
       <input type="password" placeholder="password"/>
